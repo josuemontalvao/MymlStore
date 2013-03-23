@@ -1,4 +1,4 @@
 MymlStore
 =========
 
-Myml Store for Hackathon Livre 2013.
+Myml Store project for Hackathon Livre 2013.
